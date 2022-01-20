@@ -194,7 +194,7 @@ max-height:100%;
     }
     
     .header-carousel .owl-carousel-item img {
-        position: absolute;
+        position: relative;
         width: 100%;
         height: 50%;
         object-fit: cover;
